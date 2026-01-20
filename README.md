@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello all! I'm Hemam Pandey, an undergraduate at Madan Mohan Malaviya University of Technology.
+
+* 🤖 Deeply interested in Machine Learning, AI.
+* 🏆 Active competitive programmer, constantly honing my problem-solving skills on LeetCode and Codeforces.
+* 🛠️ Primarily working with **Python**, **C++**, and various other libraries.
+* 📮 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemampandey).
 
 <!--
 **hemampandey/hemampandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
