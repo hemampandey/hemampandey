@@ -1,8 +1,14 @@
-Hello all! I'm Hemam Pandey, an undergraduate at Madan Mohan Malaviya University of Technology.
+Hi, I'm Hemam Pandey — a second-year undergraduate focused on AI systems, Retrieval-Augmented Generation (RAG), and intelligent applications.
 
-* 🤖 Interested in Machine Learning, AI.
-* 📮 Connect with me on [LinkedIn](https://www.linkedin.com/in/hemampandey).
+Currently building:
+*  Multi-agent AI workflows
+* AI-powered retrieval systems
+* FastAPI-based AI applications
 
+Tech Stack:
+Python • LangGraph • RAG • FastAPI • Git • GitHub • Docker
+
+[LinkedIn](https://www.linkedin.com/in/hemampandey)
 <!--
 **hemampandey/hemampandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
