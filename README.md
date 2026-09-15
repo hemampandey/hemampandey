@@ -21,7 +21,7 @@
 
 ### About
 
-I build and ship software at the intersection of **AI, backend engineering, and intelligent systems**.
+I build and ship intelligent and scalable softwares.
 
 I enjoy working on problems involving retrieval, agentic workflows, optimization, and data-intensive applications — from designing the underlying systems to building the product around them.
 
